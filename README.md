@@ -21,3 +21,5 @@ ASRock H510M-ITX/ac Hackintosh
 OS Version Tested: Ventura : 13.3.1 (a)
 
 What doesn't work: wake up from sleep (black screen)
+
+based on https://github.com/hackintosh-efi/JUBO-H510-AIO-OpenCore
