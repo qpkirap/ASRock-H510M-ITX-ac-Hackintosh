@@ -187,6 +187,87 @@
 	<dict>
 		<key>Add</key>
 		<dict>
+			<key>PciRoot(0x0)/Pci(0x1,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)</key>
+			<dict>
+				<key>PP_PhmSoftPowerPlayTable</key>
+				<data>
+				pgkSAAIiA64JAAAiQwAAgwAYAAAAHAAAAAAAAHYAAAAA
+				AAAAAAAAAAAAAQAAAAEAAAANAAAAUgsAAAAFAADoAwAA
+				CAcAAOIEAACVBQAA4gQAAJUFAACwBAAAwQQAAMEEAAAq
+				AwAAwQQAAAAAAAAAAAAAAAAAAPQBAACiAQAAYQAAAPQB
+				AAA8AgAAsgIAADwCAACyAgAAogEAAOcBAADnAQAALAEA
+				AOcBAAAAAAAAAAAAAAAAAACBAAAAEAAAAB4AAAABAQEB
+				AQEBAQEBAQEBAQEBAAAAAAAAAAAAAAAAAAAAAE4MAABO
+				DAAAAAAAAAAAAAAAAAAATgwAALAEAACwBAAAFAAAAKwN
+				AACsDQAAbgAAAG4AAAABAAAAAQAAAAEAAAABAAAAAQAA
+				AGQAAABkAAAAZAAAAGQAAABkAAAAZAAAAGQAAABkAAAA
+				ZAAAAGQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAD0AQAA9AEAAAAAAAAA
+				AAAAAAAAAPQBAACiAgAAogIAAAYAAAD6AAAA6AMAABkA
+				AAAyAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZAAAACgAA
+				ABkAAAAKAAAAGQAAAAoAAAAZAAAACgAAABkAAAAKAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAABgAAAAYAAABQAFAAXwBfAJ4HngfW
+				BtYGrA2sDcoIbAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAYAAAD//X+j4zcEAJEAAAAAAAAAAAAA
+				AAAAAACRAAAAAAAAAAAAAAAAAAAAggASAAAAAABkAG4A
+				ZABzAHMAcwBzAAAAAAAAAAAAAAABAAAACgAAAAAAAAAA
+				AAAAAAAAALgLSA3YDmgQwBIAAPw4AAD/PwAAMgBkAAAA
+				uAu4CzIAAAAAAOoL6gv4EWgQgAAAATcANwC4C7gLuAu4
+				CwUABQAAAAIAAACAPwAAAAA4FQk++MLkvS4cKD+hAQAA
+				AAACAL6fij9I4Xo+91j6OlYO7T7vVas+ogEAAAABBABx
+				PZo/w/UoPgBSGzsK1wM/w0eUPmEAAAAAAAIAAACAPwAA
+				AAC5pdU6vp/aPlyPgj70AQAAAAACAPYonD8IrBw+o0Af
+				O0JgBT/uWoI+PAIAAAAAAgDTTYI/g8BKPv2C3TpSuN4+
+				jV2CPrICAAAAAAIA9iicPwisHD6jQB87QmAFP+5agj48
+				AgAAAAACANNNgj+DwEo+/YLdOlK43j6NXYI+sgIAAAAA
+				AgD5D5k/mpmZPokMKztxPQo/G2SCPqIBAAAAAAIA7FGY
+				P3NoET4X8R07L90EP41dgj7nAQAAAAACAOxRmD9zaBE+
+				F/EdOy/dBD+NXYI+5wEAAAAAAgDZzjc/rBw6PwAAAABE
+				aY8+wTkTPywBAAAAAAIA7FGYP3NoET4X8R07L90EP41d
+				gj7nAQAA9AFSCwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAACyApUFAAAAAAAAAAAAAAAAPALiBAAAAAAAAAAA
+				AAAAAKIBAAUAAAAAAAAAAAAAAABhAB4CpALoA6IBsAQA
+				AAAAAAAAAAAAAADnAcEEAAAAAAAAAAAAAAAA5wHBBAAA
+				AAAAAAAAAAAAACwBKgMAAAAAAAAAAAAAAADnAcEEAAAA
+				AAAAAAAAAAAA9AEIBwAAAAAAAAAAAAAAAAAAAAC+MIE/
+				FvtLPVVqdr2+MIE/FvtLPVVqdr2+MIE/FvtLPVVqdr3z
+				H2I/I9v5PS7/ob3Q1SY/bef7Pb72LD5SCwAAAAUAAOgD
+				AAAIBwAA4gQAAJUFAADiBAAAlQUAALAEAADBBAAAwQQA
+				ACoDAADBBAAAAAMDAwgHAABMAfoB8AqADIwKSA1IDUgN
+				iBMYFRgVGBX0ASAD9AEBAAECXQABAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAABRE9cSXRLiEWgR7RBzEPkPfg8E
+				D4kODw6+DG4LHQrMCAAAAAADAgEAAAAAAAAAAAAAAAAA
+				AAMBBFEAawI3AEYAAABkAGQAZABkAGQAZACQAZABZAAh
+				AJ4HrA2sDQAAUAD0AQAAAQABAgAAAAAAAAAAAAADAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAOf7Kb2TGMQ+gue+
+				vgAAAAAAAAAAAAAAAIGVwz1Y4oE9cF+HvQAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAA4ADgAAEBAAAAAAAA4ADgABkAGQAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAABVAtYAAAA3pOJQLByaD4p
+				XOlB6NnMPgAAAABUC1QLCAwIDLQAZABkAAAAAAAAAAAA
+				AAAAAAAAAAAAACwIAAA3CQAAHQoAACwIAAA3CQAAHQoA
+				AAAAAAAAAAAAAAAAAAAAGgEB9a2AGQhoAQEFSBzcAwsA
+				AADA0ODwpQEBqhkAAAB0AQEF/////zIBAa8AAACOAQAA
+				ABcAAAAXAAAAklcrBQAAAQBlAG4AdAABAG8AaQBkAAEA
+				ZwBhAGkAAQAgAGEAdAABAE0AZQBtAAEAcgB5AAAAbgAA
+				AAAAJG1MrwABAI4EAAAAFwAAABcAAADiASsFAABUAF8A
+				TQBFAE0AMQAgAAEAAQBuAAEAQwABAG4AAQByAG8AbAAg
+				AAEAYQABAG4AAABuAAAAAADebFqvAAIAjAEAAAAYAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeBg==
+				</data>
+			</dict>
 			<key>PciRoot(0x0)/Pci(0x1C,0x0)/Pci(0x0,0x0)</key>
 			<dict>
 				<key>built-in</key>
@@ -196,48 +277,6 @@
 				<key>pci-aspm-default</key>
 				<data>
 				AgEAAA==
-				</data>
-			</dict>
-			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
-			<dict>
-				<key>AAPL,ig-platform-id</key>
-				<data>
-				BwCbPg==
-				</data>
-				<key>AAPL00,override-no-connect</key>
-				<data>
-				AP///////wAebVVbAQEBAQEaAQOAMBt46jE1pVVOoSYM
-				UFSlSwBxT4GAlQCzAKnAgQCBwJBAKkSAoHA4J0AwIDUA
-				4A4RAAAeAAAA/QAwSx5VEgAKICAgICAgAAAA/ABMRyBG
-				VUxMIEhECiAgAjqAGHE4LUBYLEUA4A4RAAAeAbM=
-				</data>
-				<key>device-id</key>
-				<data>
-				mz4AAA==
-				</data>
-				<key>framebuffer-con0-enable</key>
-				<data>
-				AQAAAA==
-				</data>
-				<key>framebuffer-con0-type</key>
-				<data>
-				AAgAAA==
-				</data>
-				<key>framebuffer-fbmem</key>
-				<data>
-				AACQAA==
-				</data>
-				<key>framebuffer-patch-enable</key>
-				<data>
-				AQAAAA==
-				</data>
-				<key>framebuffer-stolenmem</key>
-				<data>
-				AAAwAQ==
-				</data>
-				<key>framebuffer-unifiedmem</key>
-				<data>
-				AAAAgA==
 				</data>
 			</dict>
 		</dict>
@@ -628,6 +667,8 @@
 			<true/>
 			<key>DisableIoMapper</key>
 			<false/>
+			<key>DisableIoMapperMapping</key>
+			<false/>
 			<key>DisableLinkeditJettison</key>
 			<true/>
 			<key>DisableRtcChecksum</key>
@@ -680,11 +721,13 @@
 			<key>ConsoleAttributes</key>
 			<integer>0</integer>
 			<key>HibernateMode</key>
-			<string>None</string>
+			<string>Auto</string>
 			<key>HibernateSkipsPicker</key>
 			<false/>
 			<key>HideAuxiliary</key>
 			<true/>
+			<key>InstanceIdentifier</key>
+			<string></string>
 			<key>LauncherOption</key>
 			<string>Disabled</string>
 			<key>LauncherPath</key>
@@ -711,9 +754,9 @@
 			<key>AppleDebug</key>
 			<true/>
 			<key>ApplePanic</key>
-			<true/>
+			<false/>
 			<key>DisableWatchDog</key>
-			<true/>
+			<false/>
 			<key>DisplayDelay</key>
 			<integer>0</integer>
 			<key>DisplayLevel</key>
@@ -823,7 +866,7 @@
 				<key>Comment</key>
 				<string>Not signed for security reasons</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Flavour</key>
 				<string>OpenShell:UEFIShell:Shell</string>
 				<key>FullNvramAccess</key>
@@ -832,6 +875,50 @@
 				<string>UEFI Shell</string>
 				<key>Path</key>
 				<string>OpenShell.efi</string>
+				<key>RealPath</key>
+				<false/>
+				<key>TextMode</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>Arguments</key>
+				<string></string>
+				<key>Auxiliary</key>
+				<true/>
+				<key>Comment</key>
+				<string>Memory testing utility</string>
+				<key>Enabled</key>
+				<false/>
+				<key>Flavour</key>
+				<string>MemTest</string>
+				<key>FullNvramAccess</key>
+				<false/>
+				<key>Name</key>
+				<string>memtest86</string>
+				<key>Path</key>
+				<string>memtest86/BOOTX64.efi</string>
+				<key>RealPath</key>
+				<true/>
+				<key>TextMode</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>Arguments</key>
+				<string>Shutdown</string>
+				<key>Auxiliary</key>
+				<true/>
+				<key>Comment</key>
+				<string>Perform shutdown</string>
+				<key>Enabled</key>
+				<false/>
+				<key>Flavour</key>
+				<string>Auto</string>
+				<key>FullNvramAccess</key>
+				<false/>
+				<key>Name</key>
+				<string>Shutdown</string>
+				<key>Path</key>
+				<string>ResetSystem.efi</string>
 				<key>RealPath</key>
 				<false/>
 				<key>TextMode</key>
@@ -863,7 +950,7 @@
 				AEY=
 				</data>
 				<key>boot-args</key>
-				<string>keepsyms=1 darkwake=0 swd_panic=1 debug=0x0 alcid=69 -liludbgall</string>
+				<string>agdpmod=pikera shikigva=80 keepsyms=1 darkwake=0 swd_panic=1 debug=0x0 alcid=69 -liludbgall -lilubetaall</string>
 				<key>csr-active-config</key>
 				<data>
 				AwAAAA==
@@ -910,6 +997,8 @@
 				<string>fmm-mobileme-token-FMM-BridgeHasAccount</string>
 				<string>nvda_drv</string>
 				<string>prev-lang:kbd</string>
+				<string>backlight-level</string>
+				<string>BootCampHD</string>
 			</array>
 			<key>8BE4DF61-93CA-11D2-AA0D-00E098032B8C</key>
 			<array>
@@ -934,13 +1023,14 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string></string>
+			<string>C02041405J90000AD</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
 			<integer>4105</integer>
 			<key>ROM</key>
 			<data>
+			hzwk/NnF
 			</data>
 			<key>SpoofVendor</key>
 			<true/>
@@ -949,9 +1039,9 @@
 			<key>SystemProductName</key>
 			<string>iMac20,2</string>
 			<key>SystemSerialNumber</key>
-			<string></string>
+			<string>C02DJ4Z0046M</string>
 			<key>SystemUUID</key>
-			<string></string>
+			<string>F1DF9753-A352-436E-8DB2-04E85BFCD9C5</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
@@ -1123,6 +1213,8 @@
 		<dict>
 			<key>ClearScreenOnModeSwitch</key>
 			<false/>
+			<key>ConsoleFont</key>
+			<string></string>
 			<key>ConsoleMode</key>
 			<string></string>
 			<key>DirectGopRendering</key>
@@ -1135,6 +1227,8 @@
 			<string>Disabled</string>
 			<key>IgnoreTextInGraphics</key>
 			<false/>
+			<key>InitialMode</key>
+			<string>Auto</string>
 			<key>ProvideConsoleGop</key>
 			<true/>
 			<key>ReconnectGraphicsOnConnect</key>
@@ -1190,6 +1284,8 @@
 			<false/>
 			<key>OSInfo</key>
 			<false/>
+			<key>PciIo</key>
+			<false/>
 			<key>UnicodeCollation</key>
 			<false/>
 		</dict>
@@ -1220,6 +1316,8 @@
 			<key>ResizeGpuBars</key>
 			<integer>-1</integer>
 			<key>ResizeUsePciRbIo</key>
+			<false/>
+			<key>ShimRetainProtocol</key>
 			<false/>
 			<key>TscSyncTimeout</key>
 			<integer>0</integer>
