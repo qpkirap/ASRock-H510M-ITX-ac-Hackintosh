@@ -6,7 +6,7 @@ ASRock H510M-ITX/ac Hackintosh
 - **Motherboard:** *ASRock H510M-ITX/ac*
 - **Processor:** *Intel i7-10700k*
 - **Memory:** *Other* (DDR4 - 2666 MHz)
-- **GPU:** *UHD 630* (2048mb) 
+- **GPU:** *UHD 630* (2048mb) . !!!UPDATE 0.9.5 -> rx6600xt
 - **Wireless adapter:* *Intel 3168* (onboard)
 - **Bluetooth** (onboard)
 - **Sound** Realtek ALC897 (onboard)
